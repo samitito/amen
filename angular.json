@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "amen"
+    }
+  },
+  "defaultProject": "amen",
+  "cli": {
+    "analytics": "cff62cdc-219b-4ec0-ab0e-93bce8432bfc"
+  }
 }
